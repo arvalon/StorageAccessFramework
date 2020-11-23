@@ -1,0 +1,1 @@
+Тестирование [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider?hl=ru)
